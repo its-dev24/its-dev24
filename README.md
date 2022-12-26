@@ -34,8 +34,6 @@ I'm an aspiring MCA student who is also a part-time Flutter and Frontend develop
 
 #
 
-#
-
 ### 📊 Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=its-dev24&theme=dracula&show_icons=true&locale=en" alt="its-dev24" /></p>
@@ -47,8 +45,7 @@ I'm an aspiring MCA student who is also a part-time Flutter and Frontend develop
 <br />
 <br />
 <br />
-<br />
-<br />
+
 
 #
 <p>
