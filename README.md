@@ -41,10 +41,11 @@ I'm an aspiring MCA student who is also a part-time Flutter and Frontend develop
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-dev24&show_icons=true&theme=gruvbox)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-dev24&show_icons=true&locale=en&layout=compact" alt="its-dev24" /></p>
-
+<br/>
+#
 #
 
-<br>
+
 <details>
  <summary><h3>👨‍💻 Gautham's Coding Journey</h3></summary>
   g.
