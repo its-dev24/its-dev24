@@ -40,7 +40,7 @@ I'm an aspiring MCA student who is also a part-time Flutter and Frontend develop
 
 ![Gautham's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-dev24&show_icons=true&theme=gruvbox)
 
-![Gautham's GitHub stats](https://github-readme-stats.vercel.app/api?top-langs?username=its-dev24&show_icons=true&locale=en&layout=compact)
+<p><img style ="background-color: white;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-dev24&show_icons=true&locale=en&layout=compact" alt="its-dev24" /></p>
 
 
 #
