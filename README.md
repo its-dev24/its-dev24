@@ -40,7 +40,7 @@ I'm an aspiring MCA student who is also a part-time Flutter and Frontend develop
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-dev24&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-dev24&" alt="its-dev24" /></p>
 
 #
 
