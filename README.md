@@ -41,7 +41,9 @@ I'm an aspiring MCA student who is also a part-time Flutter and Frontend develop
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=its-dev24&theme=dracula&show_icons=true&locale=en" alt="its-dev24" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-dev24&theme=dracula&show_icons=true&locale=en&layout=compact" alt="its-dev24" /></p>
-</br>
+#
+
+#
 
 #
 <p>
