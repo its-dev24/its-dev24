@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/MCA Student)`**
 
-I'm an aspiring MCA student who is also a part-time Flutter and Frontend developer. I am currently learning deep into react and Flutter 3.0 and is also an intermediate in C++.
+I'm an aspiring MCA student who is also a part-time Flutter and Frontend developer. I am currently learning deep into react and Flutter 3.0 and also an intermediate in C++.
 
    <p align="left">
       <a href="https://github.com/its-dev24?tab=followers">
