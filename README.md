@@ -53,4 +53,4 @@ I'm an aspiring MCA student who is also a part-time Flutter and Frontend develop
 
 <details>
  <summary><h3>👨‍💻 Gautham's Coding Journey</h3></summary>
-  g.
+  Started my career when i was in College
