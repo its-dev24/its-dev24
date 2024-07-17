@@ -1,6 +1,6 @@
 # 🏄‍♂️ Gautham Krishna
 
-**`Digital Craftsman (Developer/MCA Student)`**
+**`Digital Craftsman (Developer/MCA Graduate)`**
 
 MCA Graduate | Learning Golang | Backend Developer 
 
