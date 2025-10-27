@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/MCA Graduate)`**
 
-MCA Graduate | Learning Golang | Backend Developer 
+MCA Graduate | Learning FastAPI | Backend Developer 
 
    <p align="left">
       <a href="https://github.com/its-dev24?tab=followers">
