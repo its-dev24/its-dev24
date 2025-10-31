@@ -56,23 +56,23 @@ MCA Graduate | Learning FastAPI | Backend Developer
 <details>
  <summary><h3>👨‍💻 Gautham's Coding Journey</h3></summary>
 
-My coding journey began during my MCA days, where curiosity turned into passion. I started with the basics of programming and slowly found myself diving deep into full-stack development.
+My coding journey started during my **BCA days**, where I got introduced to programming and the world of tech. What began as curiosity soon turned into a passion for building real applications and solving problems through code.
 
-🚀 **Key Milestones**
+🚀 **Timeline of My Growth**
 
-- 📚 **College Days** — Built my foundation in programming, data structures, and databases  
-- 🌐 **First Real Project** — Created *MCA E-LEARN*, a notes-sharing platform using the MERN stack  
-- 🔁 **Backend Realization** — Discovered my love for backend engineering and clean API design  
-- 🧠 **Learning in Public** — Sharing knowledge, solving problems, and helping others  
-- 💼 **Industry Exposure** — Worked with Javascript&Python at Deloitte, gaining enterprise-level experience  
-- ⚙️ **Level-Up Phase** — Transitioning to backend engineering using **FastAPI + Postgres + SQLAlchemy**  
-- 🐍 **Teaching Experience** — Served as Python instructor for beginners to intermediate learners  
-- 🛠️ **Self-Improvement** — Continuously building projects, exploring Golang, DevOps basics & system design  
-- 🎯 **Current Focus** — Becoming a strong backend engineer, writing scalable APIs & learning cloud + microservices
+- 🎓 **BCA Days** — Started learning programming fundamentals, OOPs & **DSA**
+- 🌍 **Early Development** — Built web projects with **PHP, HTML, CSS, JS**
+- 📱 **Mobile Dev Phase** — Explored cross-platform apps using **Flutter**
+- 🤝 **Team Projects & College Work** — Collaborated on academic & mini-projects, learning version control & teamwork
+- 🎓 **MCA Journey** — Strengthened backend and system knowledge  
+- 🧠 **Real Project** — Built **MCA E-LEARN** (MERN stack) — notes sharing platform for students
+- 🧪 **DSA + Problem Solving** — Practiced algorithms to build strong logic
+- 💼 **Industry Exposure** — Worked with **Javascript & Python** at Deloitte, learning enterprise-level development
+- 🐍 **Python & FastAPI Phase** — Focused on modern backend development, building APIs & learning databases
+- 🛠️ **Tech Exploration** — Learning **Golang, Postgres, SQLAlchemy, Docker**, and backend architecture
+- 🎯 **Current Goal** — Become a strong **Backend Engineer** building scalable and clean services
 
-💡 I believe in **building, breaking, and learning** — one commit at a time.  
-With every project, I aim to sharpen my skills, contribute to open-source, and grow into a world-class backend developer.
-
-> _The journey is long, but consistent effort and curiosity keep me going._ 🚀🔥
+> _From PHP forms to FastAPI microservices — learning, improving and building consistently._  
+**The journey continues… 🚀🔥**
 
 </details>
