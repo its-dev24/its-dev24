@@ -55,4 +55,24 @@ MCA Graduate | Learning FastAPI | Backend Developer
 
 <details>
  <summary><h3>👨‍💻 Gautham's Coding Journey</h3></summary>
-  Started my career when i was in College
+
+My coding journey began during my MCA days, where curiosity turned into passion. I started with the basics of programming and slowly found myself diving deep into full-stack development.
+
+🚀 **Key Milestones**
+
+- 📚 **College Days** — Built my foundation in programming, data structures, and databases  
+- 🌐 **First Real Project** — Created *MCA E-LEARN*, a notes-sharing platform using the MERN stack  
+- 🔁 **Backend Realization** — Discovered my love for backend engineering and clean API design  
+- 🧠 **Learning in Public** — Sharing knowledge, solving problems, and helping others  
+- 💼 **Industry Exposure** — Worked with Javascript&Python at Deloitte, gaining enterprise-level experience  
+- ⚙️ **Level-Up Phase** — Transitioning to backend engineering using **FastAPI + Postgres + SQLAlchemy**  
+- 🐍 **Teaching Experience** — Served as Python instructor for beginners to intermediate learners  
+- 🛠️ **Self-Improvement** — Continuously building projects, exploring Golang, DevOps basics & system design  
+- 🎯 **Current Focus** — Becoming a strong backend engineer, writing scalable APIs & learning cloud + microservices
+
+💡 I believe in **building, breaking, and learning** — one commit at a time.  
+With every project, I aim to sharpen my skills, contribute to open-source, and grow into a world-class backend developer.
+
+> _The journey is long, but consistent effort and curiosity keep me going._ 🚀🔥
+
+</details>
